@@ -6,27 +6,27 @@
 
 ---
 
-## 🚀 Key Achievements
+## Key Achievements
 
 * **The 15MB Milestone:** Slashed over 80% of the size from standard minimal builds by ditching GRUB in favor of a precision-tuned `ISOLINUX` bootloader.
 * **Pure Kernel Hacking:** A custom-compiled Linux Kernel 7.0.x, stripped of every non-essential driver and debug symbol.
 * **Bespoke UI/UX:** Features a custom-coded login manager and shell interface, built entirely in POSIX-compliant shell script.
 * **Instant Execution:** Boots directly into the user interface in milliseconds, bypassing traditional systemd/init overhead.
 
-## 🛠 Specifications
+## Specifications
 
 - **OS Name:** Insanely Small Linux (ISL)
 - **Kernel:** 7.0.3 (Custom Minimalist Build)
 - **Bootloader:** ISOLINUX (El Torito No-Emulation Mode)
 - **Userland:** BusyBox (Statically Linked)
 
-
----
-
-## 👨‍💻 The Developer's Mission
-
-The goal was simple but insane: How much can we remove before a Linux system stops being a Linux system? 
-
-ISL is the result of that obsession. From the "17.9MB barrier" to the current "5.4MB breakthrough," every byte has been audited, every kernel flag has been questioned, and every unnecessary driver has been "hacked" away.
-
 MIT License. Open for forks, hacks, and further minimization.
+
+## Open Source Compliance
+
+This project utilizes open-source software. In compliance with the **GPL v2**, the following resources are provided:
+
+- **Kernel & BusyBox Config:** Found in the `/LEGAL` directory. These files contain the exact configuration used to achieve the 5.4MB size.
+- **Upstream Sources:** - Linux Kernel: [kernel.org](https://www.kernel.org)
+  - BusyBox: [busybox.net](https://www.busybox.net)
+- **Modifications:** All custom scripts (`/init`, `/bin/mu-sh`) are original works by the developer and are provided under the MIT License.
