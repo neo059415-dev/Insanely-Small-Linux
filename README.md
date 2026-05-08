@@ -1,7 +1,5 @@
 # Insanely Small Linux (ISL)
 
-**"A Linux distribution so small, it shouldn't exist."**
-
 `Insanely Small Linux (ISL)` is a minimalist, kernel-focused operating system designed to push the absolute limits of the x86_64 architecture. Developed by Naoto, this project focuses on extreme optimization, achieving a functional OS in just **5.4 MB**.
 
 ---
@@ -11,7 +9,7 @@
 * **The 15MB Milestone:** Slashed over 80% of the size from standard minimal builds by ditching GRUB in favor of a precision-tuned `ISOLINUX` bootloader.
 * **Pure Kernel Hacking:** A custom-compiled Linux Kernel 7.0.x, stripped of every non-essential driver and debug symbol.
 * **Bespoke UI/UX:** Features a custom-coded login manager and shell interface, built entirely in POSIX-compliant shell script.
-* **Instant Execution:** Boots directly into the user interface in milliseconds, bypassing traditional systemd/init overhead.
+* **Instant Execution:** It boots directly into the shell for maximum speed.
 
 ## Specifications
 
