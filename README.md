@@ -20,6 +20,10 @@
 
 MIT License. Open for forks, hacks, and further minimization.
 
+## Screenshots
+
+![alt](https://a.fsdn.com/con/app/proj/insanely-small-linux/screenshots/Screenshot%20From%202026-05-08%2021-39-55-489d02d4.png/max/max/1)
+
 ## Open Source Compliance
 
 This project utilizes open-source software. In compliance with the **GPL v2**, the following resources are provided:
