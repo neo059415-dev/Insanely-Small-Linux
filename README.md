@@ -1,6 +1,6 @@
 # Insanely Small Linux (ISL)
 
-`Insanely Small Linux (ISL)` is a minimalist, kernel-focused operating system designed to push the absolute limits of the x86_64 architecture. Developed by Naoto, this project focuses on extreme optimization, achieving a functional OS in just **5.4 MB**.
+`Insanely Small Linux (ISL)` is a minimalist, kernel-focused operating system designed to push the absolute limits of the x86_64 architecture. Developed by Neo. this project focuses on extreme optimization, achieving a functional OS in just **15 MB**.
 
 ---
 
