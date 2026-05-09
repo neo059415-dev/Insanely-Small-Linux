@@ -28,3 +28,7 @@ This project utilizes open-source software. In compliance with the **GPL v2**, t
 - **Upstream Sources:** - Linux Kernel: [kernel.org](https://www.kernel.org)
   - BusyBox: [busybox.net](https://www.busybox.net)
 - **Modifications:** All custom scripts (`/init`, `/bin/mu-sh`) are original works by the developer and are provided under the MIT License.
+
+- ## Sourceforge URL
+
+- https://sourceforge.net/projects/insanely-small-linux/
