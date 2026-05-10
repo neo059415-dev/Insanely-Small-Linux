@@ -31,7 +31,8 @@ MIT License. Open for forks, hacks, and further minimization.
 This project utilizes open-source software. In compliance with the **GPL v2**, the following resources are provided:
 
 - **Kernel & BusyBox Config:** Found in the `/LEGAL` directory. These files contain the exact configuration used to achieve the 5.4MB size.
-- **Upstream Sources:** - Linux Kernel: [kernel.org](https://www.kernel.org)
+- **Upstream Sources:**
+  - Linux Kernel: [kernel.org](https://www.kernel.org)
   - BusyBox: [busybox.net](https://www.busybox.net)
 - **Modifications:** All custom scripts (`/init`, `/bin/mu-sh`) are original works by the developer and are provided under the MIT License.
 
