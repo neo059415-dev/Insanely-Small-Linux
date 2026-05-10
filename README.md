@@ -22,7 +22,7 @@ MIT License. Open for forks, hacks, and further minimization.
 
 ## Screenshots
 
-![alt](https://a.fsdn.com/con/app/proj/insanely-small-linux/screenshots/Screenshot%20From%202026-05-10%2000-15-22-11982f56.png/max/max/1)
+![alt](https://a.fsdn.com/con/app/proj/insanely-small-linux/screenshots/Screenshot%20From%202026-05-10%2020-38-02-bf323134.png/max/max/1)
 
 ## Open Source Compliance
 
