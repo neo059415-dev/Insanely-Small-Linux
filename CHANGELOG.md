@@ -1,4 +1,8 @@
-# [ver.1.2(new)] -2026-5-10
+# [ver.1.2.1(new)] -2026-5-11
+### Changed
+-　Changed UI design
+
+# [ver.1.2] -2026-5-10
 ### Changed
 - Added a feature.
 - **Disk operations are now possible.**
