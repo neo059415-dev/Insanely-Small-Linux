@@ -38,6 +38,8 @@ This project utilizes open-source software. In compliance with the **GPL v2**, t
 
 ## Sourceforge URL
 
+Older versions can be downloaded from here.
+
 - https://sourceforge.net/projects/insanely-small-linux/
 
 ## Contact
