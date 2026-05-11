@@ -39,3 +39,9 @@ This project utilizes open-source software. In compliance with the **GPL v2**, t
 ## Sourceforge URL
 
 - https://sourceforge.net/projects/insanely-small-linux/
+
+## Contact
+
+Questions, bug reports or suggestions:
+
+- neo059415@gmail.com
