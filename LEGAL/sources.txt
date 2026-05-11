@@ -1,0 +1,13 @@
+Insanely Small Linux(ISL) source references
+
+linux kernel:
+https://www.kernel.org/pub/linux/kernel/v7.x/
+version: 7.0.3
+
+BusyBox:
+https://busybox.net/
+version: 1.37.0
+
+Build system:
+x86_64_linux-gnu-gcc
+GNU Make
