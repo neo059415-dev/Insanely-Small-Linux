@@ -1,4 +1,9 @@
-# [ver.1.2.1(new)] -2026-5-11
+# [ver.1.3]
+### Changed
+-  Major UI design changes
+-  Support for IDE/SATA drives enabled.
+  
+# [ver.1.2.1] -2026-05-11
 ### Changed
 -  Changed UI design.
 -  Fixed the issue where RAM was not showing up correctly.
