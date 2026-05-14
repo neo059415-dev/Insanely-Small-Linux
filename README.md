@@ -47,7 +47,7 @@ https://sourceforge.net/projects/insanely-small-linux/files/ISL1.3-32bit.iso/dow
 
 ### Older versions can be downloaded from here.
 
-https://sourceforge.net/projects/insanely-small-linux/
+https://sourceforge.net/projects/insanely-small-linux/files/
 
 ## Contact
 
