@@ -1,6 +1,8 @@
 # Changelog
 
 # [v1.3] - 2026-05-13
+### Added
+- Introduced the ISL i686 Edition.
 ### Changed
 -  Major UI design changes
 -  Support for IDE/SATA drives enabled.
