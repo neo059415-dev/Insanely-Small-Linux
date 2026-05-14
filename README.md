@@ -36,11 +36,18 @@ This project utilizes open-source software. In compliance with the **GPL v2**, t
   - BusyBox: [busybox.net](https://www.busybox.net)
 - **Modifications:** All custom scripts (`/init`, `/bin/MyShell`) are original works by the developer and are provided under the MIT License.
 
-## Sourceforge URL
+## Download
+### 64bit edition
+https://sourceforge.net/projects/insanely-small-linux/files/ISL1.3.iso/download
+### 32bit edition
+https://sourceforge.net/projects/insanely-small-linux/files/ISL1.3-32bit.iso/download
+> [!IMPORTANT]
+> Due to 32-bit architectual limitations,
+> the maximum usable memory is approximately 4GB.
 
-Older versions can be downloaded from here.
+### Older versions can be downloaded from here.
 
-- https://sourceforge.net/projects/insanely-small-linux/
+https://sourceforge.net/projects/insanely-small-linux/
 
 ## Contact
 
