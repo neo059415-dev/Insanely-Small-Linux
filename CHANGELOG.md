@@ -1,5 +1,10 @@
 # Changelog
 
+# [v1.4] - 2026-05-17
+### Added
+- Improved system information output.
+### Changed
+-  UI design changes
 # [v1.3] - 2026-05-13
 ### Added
 - Introduced the ISL i686 Edition.
