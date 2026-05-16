@@ -24,7 +24,7 @@ MIT License. Open for forks, hacks, and further minimization.
 
 ## Screenshots
 
-![alt](https://a.fsdn.com/con/app/proj/insanely-small-linux/screenshots/Screenshot%20From%202026-05-13%2000-09-22-9dc9acd2.png/max/max/1)
+![alt](https://a.fsdn.com/con/app/proj/insanely-small-linux/screenshots/Screenshot%20From%202026-05-17%2001-27-57-cbef1a60.png/max/max/1)
 
 ## Open Source Compliance
 
@@ -38,9 +38,9 @@ This project utilizes open-source software. In compliance with the **GPL v2**, t
 
 ## Download
 ### 64bit edition
-https://sourceforge.net/projects/insanely-small-linux/files/ISL1.3.iso/download
+https://sourceforge.net/projects/insanely-small-linux/files/ISL1.4.iso/download
 ### 32bit edition
-https://sourceforge.net/projects/insanely-small-linux/files/ISL1.3-32bit.iso/download
+https://sourceforge.net/projects/insanely-small-linux/files/ISL1.4-32bit.iso/download
 > [!IMPORTANT]
 > Due to 32-bit architectual limitations,
 > the maximum usable memory is approximately 4GB.
