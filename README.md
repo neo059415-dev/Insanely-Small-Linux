@@ -4,8 +4,6 @@
 
 - *Current latest version: 1.4*
 
----
-
 ## Key Achievements
 
 * **The 5MB Milestone:** Slashed over 80% of the size from standard minimal builds by ditching GRUB in favor of a precision-tuned `ISOLINUX` bootloader.
