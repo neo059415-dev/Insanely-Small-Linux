@@ -2,7 +2,7 @@
 
 `Insanely Small Linux (ISL)` is a minimalist, kernel-focused operating system designed to push the absolute limits of the x86_64 architecture. Developed by Neo. this project focuses on extreme optimization, achieving a functional OS in just **5MB**.
 
-- *Current latest version: 1.4*
+- *Current latest version: 1.5*
 
 ## Key Achievements
 
@@ -22,7 +22,7 @@ MIT License. Open for forks, hacks, and further minimization.
 
 ## Screenshots
 
-![alt](https://a.fsdn.com/con/app/proj/insanely-small-linux/screenshots/Screenshot%20From%202026-05-17%2001-27-57-cbef1a60.png/max/max/1)
+![alt](https://a.fsdn.com/con/app/proj/insanely-small-linux/screenshots/Screenshot%20From%202026-05-21%2023-04-28-17487e02.png/max/max/1)
 
 ## Open Source Compliance
 
@@ -36,9 +36,9 @@ This project utilizes open-source software. In compliance with the **GPL v2**, t
 
 ## Download
 ### 64bit edition
-https://sourceforge.net/projects/insanely-small-linux/files/ISL1.4.iso/download
+https://sourceforge.net/projects/insanely-small-linux/files/ISL1.5.iso/download
 ### 32bit edition
-https://sourceforge.net/projects/insanely-small-linux/files/ISL1.4-32bit.iso/download
+https://sourceforge.net/projects/insanely-small-linux/files/ISL1.5-32bit.iso/download
 > [!IMPORTANT]
 > Due to 32-bit architectual limitations,
 > the maximum usable memory is approximately 4GB.
