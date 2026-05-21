@@ -1,5 +1,11 @@
 # Changelog
 
+# [v1.5] - 2026-05-21
+### Added
+- Added username and hostname display in shell prompt.
+### Changed
+- Refined root shell appearance.
+
 # [v1.4] - 2026-05-17
 ### Added
 - Improved system information output.
