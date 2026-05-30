@@ -1,5 +1,11 @@
 # Changelog
 
+# [v1.6] - 2026-05-21
+### Added
+- Improved file system support
+### Changed
+- UI design changes
+
 # [v1.5] - 2026-05-21
 ### Added
 - Added username and hostname display in shell prompt.
