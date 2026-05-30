@@ -1,6 +1,6 @@
 # Changelog
 
-# [v1.6] - 2026-05-21
+# [v1.6] - 2026-05-31
 ### Added
 - Improved file system support
 ### Changed
