@@ -48,6 +48,6 @@ https://sourceforge.net/projects/insanely-small-linux/files/
 
 ## Contact
 
-Questions, bug reports or suggestions:
+Questions, bug reports or suggestions
 
 - neo059415@gmail.com
