@@ -1,5 +1,11 @@
 # Changelog
 
+# [v2.0] - 2026-09-01
+### Added
+- Wired LAN support (early stage)
+### Changed
+- Minor changes to the UI design.
+
 # [v1.6] - 2026-05-31
 ### Added
 - Improved file system support
